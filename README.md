@@ -10,7 +10,7 @@ Shoot for the moon. Even if you miss, you'll land among the stars.
 <table style="border:none">
 <tr>
   <td style="vertical-align: top">
-    <img width="300" alt="hello!" src="https://avatars.githubusercontent.com/u/46809977?v=4" >
+    <img width="300" alt="orange" src="my_orange.jpg" >
   </td>
   <td>
   </td>
