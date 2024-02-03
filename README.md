@@ -4,9 +4,11 @@
 ```
 Shoot for the moon. Even if you miss, you'll land among the stars.
 ```
+
+![Logo](Logo.jpg)
 </div>
 
-## **Short intro**
+# **Short intro**
 <table style="border:none">
 <tr>
   <td style="vertical-align: top">
@@ -24,7 +26,10 @@ Shoot for the moon. Even if you miss, you'll land among the stars.
 </tr>
 </table>
 
-<img width="1280" alt="hello!" src="Bullet journal .gif">
+# Display
+<video muted controls auto loop>
+  <source src="Tower_of_Hanoi.mp4" type="video/mp4">
+</video>
 
 
 
