@@ -27,12 +27,4 @@ Shoot for the moon. Even if you miss, you'll land among the stars.
 </table>
 
 # Display
-<video muted controls auto loop>
-  <source src="Tower_of_Hanoi.mp4" type="video/mp4">
-</video>
-
-
-
-
-
-
+https://github.com/cheung4843/cheung4843/assets/46809977/4e6fbb22-d38b-4216-a452-a9d3370f0e09
