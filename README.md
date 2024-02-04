@@ -26,5 +26,16 @@ Shoot for the moon. Even if you miss, you'll land among the stars.
 </tr>
 </table>
 
+# **About me**
+- Hi, I'm Cheung4843, a pythonista. I love solving algorithm problems and creating visualizations. 
+
+- In my free time, I love learning new things, watching movies, and playing video games.
+
+- Well, I don't konw what to say, but I'm a good listener. If you have any questions, feel free to ask me.
+
 # Display
-https://github.com/cheung4843/cheung4843/assets/46809977/4e6fbb22-d38b-4216-a452-a9d3370f0e09
+https://github.com/cheung4843/cheung4843/assets/46809977/5cd8d7a8-3704-4c93-b5c3-97be484f2918
+
+https://github.com/cheung4843/cheung4843/assets/46809977/80a3dc7d-5171-4469-bf03-025617c8e86f
+
+https://github.com/cheung4843/cheung4843/assets/46809977/9d89f821-4ac3-43bc-bf06-f517e4dc67a0
