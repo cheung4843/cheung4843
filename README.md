@@ -6,6 +6,7 @@ Shoot for the moon. Even if you miss, you'll land among the stars.
 ```
 
 ![Logo](Logo.jpg)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Cheung4843?theme=nord&font=Andika&ext=activity)
 </div>
 
 # **Short intro**
